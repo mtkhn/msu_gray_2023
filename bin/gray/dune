@@ -1,0 +1,6 @@
+(executable
+ (name main)
+ (public_name gray)
+ (libraries gray base cmdliner)
+ (preprocess
+  (pps ppx_jane)))

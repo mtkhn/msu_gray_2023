@@ -1,0 +1,13 @@
+= Gray
+
+== Quick Start
+
+----
+dune exec gray
+----
+
+== Running Tests
+
+----
+dune test
+----
